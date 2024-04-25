@@ -11,6 +11,10 @@ body, header, main{
     margin: 0;
 }
 
+body{
+    overflow-y: scroll;
+}
+
 header,footer{
     height: 10vh;
     display: flex;
